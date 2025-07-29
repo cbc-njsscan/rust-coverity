@@ -24,7 +24,7 @@ Other platforms are not yet available:
 
 ### Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways you can contribute to Zed.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways you can contrigbute to Zed.
 
 Also... we're hiring! Check out our [jobs](https://zed.dev/jobs) page for open roles.
 
